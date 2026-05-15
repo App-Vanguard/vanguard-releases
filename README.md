@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/App-Vanguard/vanguard-releases/main/banner.png" alt="Vanguard" width="100%">
+![Vanguard](https://raw.githubusercontent.com/App-Vanguard/vanguard-releases/main/banner.png)
 
 <div align="center">
 
@@ -16,11 +16,11 @@
 
 ## â¬‡ď¸Ź Download
 
-Head to the [**Releases**](https://github.com/App-Vanguard/vanguard-releases/releases/latest) page and download the latest installer for your platform.
+Head to the [**Releases**](https://github.com/App-Vanguard/vanguard-releases/releases/latest) page and grab the latest installer for your platform.
 
 | Platform | File | Status |
-|----------|------|--------|
-| đźŞź Windows 10 / 11 (x64) | `Vanguard Setup x.x.x.exe` | âś… Available |
+|---|---|---|
+| đźŞź Windows 10 / 11 (x64) | `Vanguard.Setup.x.x.x.exe` | âś… Available |
 | đźŤŽ macOS | â€” | đź”ś Coming soon |
 | đź§ Linux | â€” | đź”ś Coming soon |
 
@@ -33,22 +33,22 @@ Head to the [**Releases**](https://github.com/App-Vanguard/vanguard-releases/rel
 - đź” **End-to-end encryption** â€” AES-256 on every message, file, and call
 - âšˇ **Sub-50ms latency** â€” Real-time messaging worldwide, no lag
 - đź‘Ą **Built for communities** â€” Roles, permissions, moderation, welcome screens, webhooks, and more
-- đźŚŤ **Server discovery** â€” Find public communities across gaming, art, music, tech
+- đźŚŤ **Server discovery** â€” Find public communities across gaming, art, music, and tech
 
 ---
 
 ## đź–Ąď¸Ź Desktop App Features
 
-The Vanguard desktop app is built with Electron and provides a native Windows experience:
+The Vanguard desktop app is built with Electron and provides a native Windows experience.
 
 | Feature | Details |
-|---------|---------|
+|---|---|
 | **System Tray** | Minimize to tray â€” Vanguard stays running in the background |
 | **Native Notifications** | Desktop push notifications for messages & mentions |
 | **Install Location** | Choose exactly where to install |
 | **Shortcuts** | Desktop shortcut + Start Menu entry |
-| **Single Instance** | Only one window ever opens |
-| **Persistent State** | Remembers window size & position |
+| **Single Instance** | Only one Vanguard window ever opens |
+| **Persistent State** | Remembers window size & position between sessions |
 | **Auto-Launch** | Launches automatically after installation |
 
 ---
@@ -57,52 +57,48 @@ The Vanguard desktop app is built with Electron and provides a native Windows ex
 
 ### Windows
 
-1. Download `Vanguard Setup x.x.x.exe` from [Releases](https://github.com/App-Vanguard/vanguard-releases/releases/latest)
-2. Run the installer â€” Windows may show a SmartScreen prompt (click **More info â†’ Run anyway**)
+1. Download `Vanguard.Setup.x.x.x.exe` from [Releases](https://github.com/App-Vanguard/vanguard-releases/releases/latest)
+2. Run the installer â€” Windows may show a SmartScreen prompt, click **More info â†’ Run anyway**
 3. Choose your install directory and shortcut preferences
 4. Click **Install** and wait for completion
-5. Vanguard launches automatically when done
+5. Vanguard launches automatically when done âś…
 
-> **Note:** The installer is not code-signed yet (no EV certificate). This is why Windows SmartScreen may warn you. The app is safe â€” [view the source on GitHub](https://github.com/App-Vanguard).
+> **Note:** The installer is not yet code-signed with an EV certificate, which is why Windows SmartScreen may warn you. The app is safe to install.
 
 ### System Requirements
 
-- **OS:** Windows 10 version 1903 or later / Windows 11
-- **Arch:** x64 (64-bit only)
-- **RAM:** 256 MB minimum
-- **Disk:** ~200 MB free space
-- **Internet:** Required (Vanguard is a cloud platform)
+| | |
+|---|---|
+| **OS** | Windows 10 (1903+) or Windows 11 |
+| **Architecture** | x64 (64-bit only) |
+| **RAM** | 256 MB minimum |
+| **Disk** | ~200 MB free space |
+| **Internet** | Required |
 
 ---
 
 ## đź”„ Updates
 
-Updates are currently manual â€” download the latest installer from the [Releases](https://github.com/App-Vanguard/vanguard-releases/releases) page and run it over your existing installation.
-
-Auto-update support is planned for a future release.
+Updates are currently manual â€” download the latest installer from the [Releases](https://github.com/App-Vanguard/vanguard-releases/releases) page and run it over your existing installation. Auto-update support is planned for a future release.
 
 ---
 
 ## đź› Issues & Feedback
 
-Encountered a bug or want to request a feature?
-
 - đź› **Bug reports:** [Open an issue](https://github.com/App-Vanguard/vanguard-releases/issues)
-- đź’¬ **Community support:** [Join our Vanguard server](https://vanguard-9cfc4.web.app)
-- đź“§ **Contact:** Available through the Vanguard platform
+- đź’¬ **Community support:** [Join Vanguard](https://vanguard-9cfc4.web.app)
 
 ---
 
 ## đź“„ License
 
-The Vanguard desktop wrapper is released under the [MIT License](LICENSE).
-The Vanguard platform itself (backend, web app) is proprietary.
+The Vanguard desktop wrapper is released under the [MIT License](LICENSE). The Vanguard platform (backend & web app) is proprietary.
 
 ---
 
 <div align="center">
 
-**[đźŚ Open Web App](https://vanguard-9cfc4.web.app) Â· [đź“Ą Download](https://github.com/App-Vanguard/vanguard-releases/releases/latest) Â· [đź› Issues](https://github.com/App-Vanguard/vanguard-releases/issues)**
+**[đźŚ Open Web App](https://vanguard-9cfc4.web.app) &nbsp;Â·&nbsp; [đź“Ą Download](https://github.com/App-Vanguard/vanguard-releases/releases/latest) &nbsp;Â·&nbsp; [đź› Issues](https://github.com/App-Vanguard/vanguard-releases/issues)**
 
 <sub>Â© 2025 Vanguard. All rights reserved.</sub>
 
